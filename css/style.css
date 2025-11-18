@@ -169,13 +169,13 @@ button:hover {
 
 #lightbox .lb-caption{
   color: #3419ff;
-  font-size: 35px;
+  font-size: 45px;
   margin-bottom: 10px;
 }
 
 #lightbox .lb-number {
   color: #3419ff;
-  font-size: 25px;
+  font-size: 35px;
   text-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
 }
 
